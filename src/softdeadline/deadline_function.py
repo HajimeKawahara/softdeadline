@@ -32,3 +32,4 @@ if __name__ == "__main__":
 
     raw_expectation_score = 90.0
     print("predicted score = ",val*raw_expectation_score)
+    
